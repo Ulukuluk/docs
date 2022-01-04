@@ -56,9 +56,9 @@ This diagram shows:
 * A new branch called `feature`
 * The journey that `feature` takes before it's merged into `main`
 
-![branching diagram](/assets/images/help/repository/branching.png)
-
-Have you ever saved different versions of a file? Something like:
+! [диаграмма ветвления] (/assets/images/help/repository/branching.png)
+uuu
+Вы когда-нибудь сохраняли разные версии файла? Что-то типа:
 
 * `story.txt`
 * `story-joe-edit.txt`
